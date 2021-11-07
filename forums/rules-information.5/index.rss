@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Rules &amp; Information</title>
+    <description>Rules &amp; Information</description>
+    <pubDate>Sun, 07 Nov 2021 14:31:03 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Nov 2021 14:31:03 +0000</lastBuildDate>
+    <generator>Bridger Land</generator>
+    <link>http://bridger.land/</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://bridger.land/forums/rules-information.5/index.rss"/>
+    <item>
+      <title>Network Rules</title>
+      <pubDate>Fri, 07 May 2021 04:16:52 +0000</pubDate>
+      <link>http://bridger.land/threads/network-rules.17/</link>
+      <guid>http://bridger.land/threads/network-rules.17/</guid>
+      <author>invalid@example.com (Zackaria)</author>
+      <category domain="http://bridger.land/forums/rules-information.5/"><![CDATA[Rules & Information]]></category>
+      <dc:creator>Zackaria</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Respect all players, including staff members</b><br />
+There is no need for players to disrespect other players on the server to make them feel bad, or upset.  Respect everyone the way you want to be treated<br />
+<br />
+<b>Cheats and or any sort of exploits. Report Exploits <a href="https://bridger.land/forums/bug-report.13/" class="link link--internal"><b>HERE</b></a>. </b><br />
+Everyone on the server should be having fun, using exploits and cheats ruins the fun out of everything, any form of cheating which gives a player an advantage is...<br />
+<br />
+<a href="http://bridger.land/threads/network-rules.17/" class="link link--internal">Read more</a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
